@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TasneemAnas05
-- 👀 I’m interested in UI/UX DEsign
+- 👀 I’m interested in UI/UX DEsign and front-end development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
