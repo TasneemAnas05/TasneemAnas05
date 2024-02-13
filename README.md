@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasneem Alsasa</h1>
+<h1 align="center">Hello there 👋, I'm Tasneem Alsasa</h1>
 <h3 align="center">A passionate front-end developer | UI UX designer </h3>
 
 <h3 align="left">Connect with me:</h3>
