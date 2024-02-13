@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Tasneem Alsasa</h1>
-<h3 align="center">A passionate front-end developer | UI UX designer </h3>
+<h3 align="center">A  Computer Science Student <br>
+                   passionate front-end developer<br>
+                   UI UX designer<br></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
