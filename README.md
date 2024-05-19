@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Tasneem Alsasa</h1>
+<h1 align="center">Hello 👋, I'm Tasneem </h1>
 <h3 align="center">A  Computer Science Student <br>
                    passionate front-end developer<br>
                    UI UX designer<br></h3>
