@@ -1,11 +1,9 @@
 <h1 > (づ ᴗ _ᴗ)づ♡</h1>
-<h1 align="center">Hello 👋, I'm Tasneem </h1>
-<h3 align="center">A  Computer Science Student <br>
-                   passionate front-end developer<br>
-                   UI UX designer<br></h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TasneemAnas05.TasneemAnas05"/>
+<h1 align="center">
+<!--  <a href="https://git.io/typing-svg"> -->
+   <img src="https://readme-typing-svg.herokuapp.com/?svg.herokuapp.com/?font=Righteous&amp;size=35&amp;color="#00FF00";center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Tasnim;+A+Front-end+Developer;+UI-UX+Designer;"/>
+</h1>   
 <a href="https://linkedin.com/in/tasnim alsasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim alsasa" height="30" width="40" /></a>
 <a href="https://instagram.com/tasneemalsasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasneemalsasa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tasneemalsasa05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tasneemalsasa05" height="30" width="40" /></a>
