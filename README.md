@@ -9,7 +9,7 @@
     <a href="mailto:tasneemanas05@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red"/>
     </a>
-   <a href="https://in.linkedin.com/in/tasnim-alsasa">
+   <a href="https://linkedin.com/in/tasnim-alsasa">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- 
         badge&amp;logo=linkedin&amp;logoColor=white"/>
    </a>
