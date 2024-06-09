@@ -9,6 +9,10 @@
     <a href="mailto:tasneemanas05@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red"/>
     </a>
+   <a href="https://in.linkedin.com/in/tasnim-alsasa">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- 
+        badge&amp;logo=linkedin&amp;logoColor=white"/>
+   </a>
 </div>
 
 <h2 align="center">⚒️Languages and Tools:⚒️</h2>
@@ -17,6 +21,7 @@
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,mysql,python,github"/>
    <br>
+   <a>
    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,vscode,git"/>
 
    </a>
