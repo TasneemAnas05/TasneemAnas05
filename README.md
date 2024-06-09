@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TasneemAnas05.TasneemAnas05"/>
 <h1 align="center">
 <!--  <a href="https://git.io/typing-svg"> -->
-   <img src="https://readme-typing-svg.herokuapp.com/?svg.herokuapp.com/?font=Righteous&amp;color=00FF7F&hex;size=60&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hello+Visitor!+👋;+I'm+Tasneem;+A+Front-end+Developer;+UI-UX+Designer;"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?svg.herokuapp.com/?font=Righteous&amp;color=00FF7F&hex;size=60&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hello+Visitor!+👋;+I'm+Tasneem;+A+Front-end+Developer;+UI-UX+Designer;+Cat+lover+🐈"/>
 </h1>   
 <a href="https://linkedin.com/in/tasnim alsasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim alsasa" height="30" width="40" /></a>
 <a href="https://instagram.com/tasneemalsasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasneemalsasa" height="30" width="40" /></a>
