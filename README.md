@@ -6,13 +6,17 @@
 </h1>   
 <h2 align="center">Let's Connect:</h2>
 <div align="center"> 
+    <a href="https://Instagram.com/_she_.codes04">
+   <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
+   </a>
     <a href="mailto:tasneemanas05@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red"/>
     </a>
+   
    <a href="https://linkedin.com/in/tasnim-alsasa">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- 
-        badge&amp;logo=linkedin&amp;logoColor=white"/>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
    </a>
+   
 </div>
 
 <h2 align="center">⚒️Languages and Tools:⚒️</h2>
