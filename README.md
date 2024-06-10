@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TasneemAnas05.TasneemAnas05"/>
 <h1 align="center">
 <!--  <a href="https://git.io/typing-svg"> -->
-   <img src="https://readme-typing-svg.herokuapp.com/?svg.herokuapp.com/?font=Righteous&amp;color=00FF7F&hex;size=60&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hello+Visitor!+👋;+I'm+Tasneem;+A+Front-end+Developer;+UI-UX+Designer;+Cat+lover+🐈"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?svg.herokuapp.com/?font=Righteous&amp;color=00FF7F&hex;size=70&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hello+Visitor!+👋;+I'm+Tasneem;+A+Front-end+Developer;+UI-UX+Designer;+Cat+lover+🐈"/>
 </h1>   
 <h2 align="center">Let's Connect:</h2>
 <div align="center"> 
